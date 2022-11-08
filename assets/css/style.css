@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-family: 'Lobster', cursive;
+}
+
+.main-title {
+	color: #f2594b;
+	text-align: center;
+	margin-top: 16px;
+}
